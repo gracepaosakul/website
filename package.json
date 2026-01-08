@@ -15,7 +15,7 @@
     "react": "^16.13.0",
     "react-app-rewired": "^2.1.5",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "env-cmd react-app-rewired start",
@@ -47,6 +47,6 @@
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
-    "netlify-cli": "^2.40.0"
+    "netlify-cli": "^2.71.0"
   }
 }
